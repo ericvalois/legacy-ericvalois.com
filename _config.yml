@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Eric valois
+description: "Performance Web, WordPress, Développement Web"
+meta_description: "Mon site personnel"
 
 aboutPage: true
 
@@ -9,14 +9,14 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'http://ericvalois.com'
+google_analytics: 'UA-27886654-1'
+disqus_shortname: 'bulledev'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://ericvalois.com'
+author:         'Eric Valois'
+authorTwitter:  'bulledev'
 
 permalink:       /:year/:title/
 
